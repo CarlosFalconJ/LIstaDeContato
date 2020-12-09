@@ -1,0 +1,8 @@
+
+Uma classe Contatos que irar conter :
+nome, telefone, apelido.
+
+As configurações do doctrini e autoload
+
+o mapeamento entre classes e um repositorio
+
