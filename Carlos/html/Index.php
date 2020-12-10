@@ -15,7 +15,7 @@
     
         <h1>Lista de contatos</h1>
     
-        <label for="exampleFormControlInput1">Digite os dados da pessoa aser adicionada: </label>
+        <label for="exampleFormControlInput1">Digite os dados da pessoa a ser adicionada: </label>
     
         <div class="form-row">
               <div class="col">
